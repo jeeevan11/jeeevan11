@@ -2,7 +2,7 @@
 
 CS student in Bengaluru. I build AI products end to end, and I ship.
 
-🟢 **Founding engineer @ [Social Gravity](https://socialgravity.ai):** a live AI voice "twin" you can call and talk to. I built the embeddable SDK that runs it on any website. Beta: 2,500 conversations and 73,000 minutes of real talk in the first two weeks.
+🟢 **Founding engineer @ [Social Gravity](https://socialgravity.ai):** a live AI voice "twin" you can call and talk to. I built the **embeddable SDK** that drops the twin onto any third-party website, and cut real-time reply latency from **3–5s to under 1 second** with model prewarming and a fast path. Beta: **2,500 conversations, 73,000 minutes** of real talk in two weeks.
 
 🏆 **Meta × PyTorch Hackathon · Top 100 of 35,000+ teams**
 - **[The Referee](https://huggingface.co/spaces/testingaccc/conflict-arbitration-env):** fine-tuned Qwen 2.5 (GRPO + LoRA) to catch spec drift between parallel coding agents, 87.5% accuracy
